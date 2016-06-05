@@ -1,5 +1,6 @@
 #include "RtMidi.h"
 #include <iostream>
+#include "usb.cpp"
 using namespace std;
 
 /*
